@@ -1,0 +1,3 @@
+Goal: Build Google.com's search result
+Thoughts: Pre-project
+After finishing the simpler google homepage, I thought I would try the search result page which seems much more complex. I feel that I didn't really utilise CSS' flexbox and grid to its fullest extent in the previous project. Snippets of code for the searchform as well as the footer can most probably be used for this project. I think learning to make a fixed searchform that scrolls with the page would be interesting as well as using the grid to organise the webpage results.
